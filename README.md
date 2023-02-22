@@ -1,6 +1,6 @@
-# web3-good-samaritans
+# web3-for-the-science
 ## Description
-A list of wallet addresses, contracts, and behaviors that evidence that at one point in time, somebody with this wallet did something based on what they thought was right without immediate regard for gain.
+A list of wallet addresses, contracts, and behaviors that evidence that at one point in time, somebody with this wallet did something based on what they thought was right or interesting without immediate regard for gain.
 
 ## How to help
 Feel free to suggest updates to this list along with rationales and [for now] I will merge if they seem reasonable. Eventually a community curated version of this would be better.
